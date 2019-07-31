@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4C6BBC4F-702A-4580-9D29-A9C29053858D}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestMono6.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestMono6.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestMono6.iOS>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestMono6" expanded="True">
+            <Node name="TestMono6" expanded="True">
+              <Node name="GettingStarted" selected="True" />
+            </Node>
+            <Node name="TestMono6.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestMono6 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
