@@ -8,10 +8,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TestMono6" expanded="True">
-            <Node name="TestMono6" expanded="True">
-              <Node name="GettingStarted" selected="True" />
-            </Node>
-            <Node name="TestMono6.Droid" expanded="True" />
+            <Node name="TestMono6" expanded="True" />
+            <Node name="TestMono6.Droid" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
